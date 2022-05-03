@@ -1,0 +1,11 @@
+<menu>
+    <Cloudfence>
+      <WebFilter VisibleName="Web Filter Community" cssClass="fa fa-globe fa-fw" order="2">
+        <General url="/ui/webfilter" order="10">
+          <Settings url="/ui/webfilter#tab_webfilter-general-settings"/>
+        </General>
+        <BlockLog VisibleName="Web Filter logs" order="60" url="/diag_logs_wfblock.php"/>
+      </WebFilter>
+    </Cloudfence>
+</menu>
+
