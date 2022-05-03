@@ -18,5 +18,7 @@ SquidGuard based plugin.
 -Documentation
 -Beautify the code ;-)  (I'm not a frontend guy, so please, be kind!)
 
+Documentation: [Wiki Cloudfence](https://wiki.cloudfence.com.br)
+
 
 
